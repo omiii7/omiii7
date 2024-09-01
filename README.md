@@ -6,11 +6,8 @@
 - 📫 How to reach me:
 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-khalkar-70800b245/)
-- 
--[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omkhalkar5228)
-
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omiii_7_? igsh=YzljYTk1ODg3Zg==)
-- 
+- -[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omkhalkar5228)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](khalkarom22@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring patterns in data as much as I enjoy watching and playing football!
