@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on data analysis projects, machine learning models, and open-source contributions that push the boundaries of data science.
 - 📫 How to reach me:
 ## Connect with me:
-- <p align="left">
+<p align="left">
 - <a href="https://www.linkedin.com/in/om-khalkar-70800b245/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" 
   alt="linkedin-username" /></a>
 - <a href="https://www.instagram.com/omiii_7_? igsh=YzljYTk1ODg3Zg==" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" 
