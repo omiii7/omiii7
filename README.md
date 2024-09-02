@@ -7,12 +7,15 @@
 
 -## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/om-khalkar-70800b245/" target="blank"><img align="center" src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=WordPress&logoColor=white" alt="your-website-url" /></a>
-<a href="https://www.linkedin.com/in/your-linkedin-username/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin-username" /></a>
+
+<a href="https://www.linkedin.com/in/om-khalkar-70800b245/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin-username" /></a>
 <a href="https://www.instagram.com/omiii_7_? igsh=YzljYTk1ODg3Zg==" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram-username" /></a>
 </p>
+
 - [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omkhalkar5228)
+- 
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](khalkarom22@gmail.com)
+- 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring patterns in data as much as I enjoy watching and playing football!
  
