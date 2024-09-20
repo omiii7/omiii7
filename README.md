@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @omiii7
+# 👋 Hi, I’m @om khalkar
 
 - 👀 I’m interested in data analytics, machine learning, solving complex problems through data-driven insights, and football.
 - 🌱 I’m currently learning data science,machine learning techniques, data visualization tools, and big data technologies.
